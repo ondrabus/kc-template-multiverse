@@ -1,4 +1,4 @@
-KenticoCloud web template | Multiverse by html5up.net
+# KenticoCloud web template | Multiverse by html5up.net
 
 Built with:
 - Multiverse template by html5up.net
